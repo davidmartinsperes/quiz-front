@@ -2,28 +2,28 @@
     "data": [
       {
         "question": "O que é o React?",
-        "choices": ["Uma linguagem de programação para desenvolvimento de backend", "Linguagem de Marcação", "Um framework CSS", "Uma biblioteca JavaScript para criar interfaces de usuário"],
-        "answer": "Uma biblioteca JavaScript para criar interfaces de usuário"
+        "choices": ["Uma linguagem de programação para desenvolvimento de backend.","Um ambiente de execução para aplicações JavaScript no servidor.", "Linguagem de Marcação.", "Um framework CSS", "Uma biblioteca JavaScript para criar interfaces de usuário."],
+        "answer": "Uma biblioteca JavaScript para criar interfaces de usuário."
       },
       {
         "question": "React é uma biblioteca de:",
-        "choices": ["C#", "JavaScript", "Python", "Java"],
-        "answer": "JavaScript"
+        "choices": ["C#.", "JavaScript.", "Python.", "Java.","COBOL."],
+        "answer": "JavaScript."
       },
       {
-        "question": "O que é o JSX no React?",
-        "choices": ["Uma ferramenta para depuração de código JavaScript", "Uma sintaxe que permite escrever HTML dentro de arquivos JavaScript", "Um método para estilizar componentes React", "Um sistema de roteamento para aplicações React"],
-        "answer": "Uma sintaxe que permite escrever HTML dentro de arquivos JavaScript"
+        "question": "JSX no React é uma sintaxe que permite escrever HTML dentro de arquivos JavaScript.",
+        "choices": ["CERTO.","ERRADO."],
+        "answer": "CERTO."
       },
       {
         "question": "O que é um Hook em React?",
-        "choices": ["Uma ferramenta para configurar a comunicação com o backend", "Uma função que permite usar o estado e outros recursos do React sem escrever uma classe", "Um método para criar novos componentes em React", "Um sistema para gerenciar rotas dentro da aplicação"],
-        "answer": "Uma função que permite usar o estado e outros recursos do React sem escrever uma classe"
+        "choices": ["Uma ferramenta para configurar a comunicação com o backend.","Uma técnica para otimizar a performance de componentes React.", "Uma função que permite usar o estado e outros recursos do React sem escrever uma classe.", "Um método para criar novos componentes em React.", "Um sistema para gerenciar rotas dentro da aplicação."],
+        "answer": "Uma função que permite usar o estado e outros recursos do React sem escrever uma classe."
       },
       {
-        "question": "Qual é a função do CSS?",
-        "choices": ["Adicionar interatividade às páginas web", " Definir o estilo e layout das páginas web", "Gerenciar dados em um banco de dados", "Criar novos componentes de software"],
-        "answer": " Definir o estilo e layout das páginas web"
+        "question": "CSS é usado para gerenciar dados em um banco de dados.",
+        "choices": ["CERTO.","ERRADO."],
+        "answer": " ERRADO."
       }
     ]
   }
